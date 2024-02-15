@@ -5,12 +5,55 @@
 <h3> 🚀  Who are we? </h3> 
 <table>
   <tr>
-    <td>
-      <img src = "[https://cdn.beymen.com/mnresize/505/704/productimages/nw3bxlm2.f0g_MP_20bafc3e-bbd2-4ca6-a594-d3365ba11611_1_33530920190575523313193400068_983.jpg](https://avatars.githubusercontent.com/u/92534371?v=4)" width = 30px>
-      Berkay
+    <td align = "center">
+      <img src = "./Photos/whiteKing.png" width = 80px>
+      <p align = "center"> White King</p>
     </td>
-    <td>
-      Hakan
+    <td align = "center">
+      <img src = "./Photos/whiteQueen.png" width = 80px>
+      <p align = "center"> White Queen</p>
+    </td>
+    <td align = "center">
+      <img src = "./Photos/whiteBishop.png" width = 80px>
+      <p align = "center"> White Bishop</p>
+    </td>
+    <td align = "center">
+      <img src = "./Photos/whiteRook.png" width = 80px>
+      <p align = "center"> White Rook</p>
+    </td>
+    <td align = "center">
+      <img src = "./Photos/whiteKnight.png" width = 80px>
+      <p align = "center"> White Knight</p>
+    </td>
+    <td align = "center">
+      <img src = "./Photos/whitePawn.png" width = 80px>
+      <p align = "center"> White Pawn</p>
+    </td>
+  </tr>
+  <tr>
+    <td align = "center">
+      <img src = "./Photos/blackKing.png" width = 80px>
+      <p align = "center"> Black King</p>
+    </td>
+    <td align = "center">
+      <img src = "./Photos/blackQueen.png" width = 80px>
+      <p align = "center"> Black Queen</p>
+    </td>
+    <td align = "center">
+      <img src = "./Photos/blackBishop.png" width = 80px>
+      <p align = "center"> Black Bishop</p>
+    </td>
+    <td align = "center">
+      <img src = "./Photos/blackRook.png" width = 80px>
+      <p align = "center"> Black Rook</p>
+    </td>
+    <td align = "center">
+      <img src = "./Photos/blackKnight.png" width = 80px>
+      <p align = "center"> Black Knight</p>
+    </td>
+    <td align = "center">
+      <img src = "./Photos/blackPawn.png" width = 80px>
+      <p align = "center"> Black Pawn</p>
     </td>
   </tr>
 </table>
