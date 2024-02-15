@@ -7,7 +7,7 @@
   <tr>
     <td align = "center">
       <img src = "./Photos/whiteKing.png" width = 80px>
-      <p align = "center"> White King</p>
+      <p align = "center"> <a href = "https://lichess.org/" target = "_blank">White King</a></p>
     </td>
     <td align = "center">
       <img src = "./Photos/whiteQueen.png" width = 80px>
