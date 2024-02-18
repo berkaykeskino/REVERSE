@@ -14,8 +14,8 @@
       <p align = "center"> Berkay</p>
     </td>
     <td align = "center">
-      <img src = "./Photos/whiteBishop.png" width = 80px>
-      <p align = "center"> White Bishop</p>
+      <img src = "./Photos/MustafaB.jpeg" width = 80px>
+      <p align = "center"> Mustafa</p>
     </td>
     <td align = "center">
       <img src = "./Photos/whiteRook.png" width = 80px>
@@ -40,8 +40,8 @@
       <p align = "center"> Berkay</p>
     </td>
     <td align = "center">
-      <img src = "./Photos/blackBishop.png" width = 80px>
-      <p align = "center"> Black Bishop</p>
+      <img src = "./Photos/MustafaK.jpeg" width = 80px>
+      <p align = "center"> Mustafa</p>
     </td>
     <td align = "center">
       <img src = "./Photos/blackRook.png" width = 80px>
