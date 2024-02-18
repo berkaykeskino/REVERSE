@@ -7,15 +7,15 @@
   <tr>
     <td align = "center">
       <img src = "./Photos/CeylinB.jpeg" width = 80px>
-      <p align = "center"> <a href = "https://lichess.org/" target = "_blank">Ceylin</a></p>
+      <p align = "center"> <a href = "https://github.com/bounswe/bounswe2024group9/wiki/Ceylin-Gebes#introduction" target = "_blank">Ceylin</a></p>
     </td>
     <td align = "center">
       <img src = "./Photos/BerkayB.jpeg" width = 80px>
-      <p align = "center"> Berkay</p>
+      <p align = "center"><a href = "https://github.com/bounswe/bounswe2024group9/wiki/Muhammet-Berkay-Keskin#introduction" target = "_blank">Berkay</a></p>
     </td>
     <td align = "center">
       <img src = "./Photos/MustafaB.jpeg" width = 80px>
-      <p align = "center"> Mustafa</p>
+      <<p align = "center"><a href = "https://github.com/bounswe/bounswe2024group9/wiki/Mustafa-Atak#who-am-i-for-real" target = "_blank">Berkay</a></p>
     </td>
     <td align = "center">
       <img src = "./Photos/whiteRook.png" width = 80px>
