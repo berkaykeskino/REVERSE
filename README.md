@@ -10,7 +10,7 @@
       <p align = "center"> <a href = "https://github.com/bounswe/bounswe2024group9/wiki/Ceylin-Gebes#introduction" target = "_blank">Ceylin</a></p>
     </td>
     <td align = "center">
-      <img src = "./Photos/BerkayB.jpeg" width = 80px>
+      <img src = "./Photos/BerkayB2.jpeg" width = 80px>
       <p align = "center"><a href = "https://github.com/bounswe/bounswe2024group9/wiki/Muhammet-Berkay-Keskin#introduction" target = "_blank">Berkay</a></p>
     </td>
     <td align = "center">
