@@ -15,7 +15,7 @@
     </td>
     <td align = "center">
       <img src = "./Photos/MustafaB.jpeg" width = 80px>
-      <<p align = "center"><a href = "https://github.com/bounswe/bounswe2024group9/wiki/Mustafa-Atak#who-am-i-for-real" target = "_blank">Mustafa</a></p>
+      <p align = "center"><a href = "https://github.com/bounswe/bounswe2024group9/wiki/Mustafa-Atak#who-am-i-for-real" target = "_blank">Mustafa</a></p>
     </td>
     <td align = "center">
       <img src = "./Photos/whiteRook.png" width = 80px>
