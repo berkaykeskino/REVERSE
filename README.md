@@ -6,15 +6,15 @@
 <table>
   <tr>
     <td align = "center">
-      <img src = "[./Photos/CeylinB.jpeg](https://github.com/berkaykeskino/REVERSE/blob/main/Photos/CeylinB.jpeg?raw=true)" width = 80px>
+      <img src = "https://github.com/berkaykeskino/REVERSE/blob/main/Photos/CeylinB.jpeg?raw=true" width = 80px>
       <p align = "center"> <a href = "https://github.com/bounswe/bounswe2024group9/wiki/Ceylin-Gebes#introduction" target = "_blank">Ceylin</a></p>
     </td>
     <td align = "center">
-      <img src = "[./Photos/BerkayB2.jpeg](https://github.com/berkaykeskino/REVERSE/blob/main/Photos/BerkayB2.jpeg?raw=true)" width = 80px>
+      <img src = "https://github.com/berkaykeskino/REVERSE/blob/main/Photos/BerkayB2.jpeg?raw=true" width = 80px>
       <p align = "center"><a href = "https://github.com/bounswe/bounswe2024group9/wiki/Muhammet-Berkay-Keskin#introduction" target = "_blank">Berkay</a></p>
     </td>
     <td align = "center">
-      <img src = "(https://github.com/berkaykeskino/REVERSE/blob/main/Photos/MustafaB.jpeg?raw=true)" width = 80px>
+      <img src = "https://github.com/berkaykeskino/REVERSE/blob/main/Photos/MustafaB.jpeg?raw=true" width = 80px>
       <p align = "center"><a href = "https://github.com/bounswe/bounswe2024group9/wiki/Mustafa-Atak#who-am-i-for-real" target = "_blank">Mustafa</a></p>
     </td>
     
