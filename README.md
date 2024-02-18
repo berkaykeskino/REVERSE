@@ -7,11 +7,11 @@
   <tr>
     <td align = "center">
       <img src = "./Photos/CeylinB.jpeg" width = 80px>
-      <p align = "center"> <a href = "https://lichess.org/" target = "_blank">White King</a></p>
+      <p align = "center"> <a href = "https://lichess.org/" target = "_blank">Ceylin</a></p>
     </td>
     <td align = "center">
-      <img src = "./Photos/whiteQueen.png" width = 80px>
-      <p align = "center"> White Queen</p>
+      <img src = "./Photos/BerkayB.jpeg" width = 80px>
+      <p align = "center"> Berkay</p>
     </td>
     <td align = "center">
       <img src = "./Photos/whiteBishop.png" width = 80px>
@@ -33,11 +33,11 @@
   <tr>
     <td align = "center">
       <img src = "./Photos/CeylinK.jpeg" width = 80px>
-      <p align = "center"> Black King</p>
+      <p align = "center"> Ceylin</p>
     </td>
     <td align = "center">
-      <img src = "./Photos/blackQueen.png" width = 80px>
-      <p align = "center"> Black Queen</p>
+      <img src = "./Photos/BerkayK.jpeg" width = 80px>
+      <p align = "center"> Berkay</p>
     </td>
     <td align = "center">
       <img src = "./Photos/blackBishop.png" width = 80px>
