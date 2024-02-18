@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td align = "center">
-      <img src = "./Photos/CeylinK" width = 80px>
+      <img src = "./Photos/CeylinK.jpeg" width = 80px>
       <p align = "center"> Black King</p>
     </td>
     <td align = "center">
