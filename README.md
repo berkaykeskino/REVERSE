@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td align = "center">
-      <img src = "./Photos/whiteKing.png" width = 80px>
+      <img src = "./Photos/CeylinB.jpeg" width = 80px>
       <p align = "center"> <a href = "https://lichess.org/" target = "_blank">White King</a></p>
     </td>
     <td align = "center">
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td align = "center">
-      <img src = "./Photos/blackKing.png" width = 80px>
+      <img src = "./Photos/CeylinK" width = 80px>
       <p align = "center"> Black King</p>
     </td>
     <td align = "center">
