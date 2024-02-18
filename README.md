@@ -17,43 +17,7 @@
       <img src = "./Photos/MustafaB.jpeg" width = 80px>
       <p align = "center"><a href = "https://github.com/bounswe/bounswe2024group9/wiki/Mustafa-Atak#who-am-i-for-real" target = "_blank">Mustafa</a></p>
     </td>
-    <td align = "center">
-      <img src = "./Photos/whiteRook.png" width = 80px>
-      <p align = "center"> White Rook</p>
-    </td>
-    <td align = "center">
-      <img src = "./Photos/whiteKnight.png" width = 80px>
-      <p align = "center"> White Knight</p>
-    </td>
-    <td align = "center">
-      <img src = "./Photos/whitePawn.png" width = 80px>
-      <p align = "center"> White Pawn</p>
-    </td>
+    
   </tr>
-  <tr>
-    <td align = "center">
-      <img src = "./Photos/CeylinK.jpeg" width = 80px>
-      <p align = "center"> Ceylin</p>
-    </td>
-    <td align = "center">
-      <img src = "./Photos/BerkayK.jpeg" width = 80px>
-      <p align = "center"> Berkay</p>
-    </td>
-    <td align = "center">
-      <img src = "./Photos/MustafaK.jpeg" width = 80px>
-      <p align = "center"> Mustafa</p>
-    </td>
-    <td align = "center">
-      <img src = "./Photos/blackRook.png" width = 80px>
-      <p align = "center"> Black Rook</p>
-    </td>
-    <td align = "center">
-      <img src = "./Photos/blackKnight.png" width = 80px>
-      <p align = "center"> Black Knight</p>
-    </td>
-    <td align = "center">
-      <img src = "./Photos/blackPawn.png" width = 80px>
-      <p align = "center"> Black Pawn</p>
-    </td>
-  </tr>
+  
 </table>
